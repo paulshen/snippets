@@ -1,0 +1,6 @@
+{
+  "name": "typescript-snippets",
+  "dependencies": {
+    "typescript": "^4.0.2"
+  }
+}
